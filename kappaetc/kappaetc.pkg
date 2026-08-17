@@ -1,0 +1,4 @@
+D 'kanom': Krippendorff's alpha for nominal variables Use kanom With STATA 19
+D
+F kanom.ado
+F kanom.sthlp
