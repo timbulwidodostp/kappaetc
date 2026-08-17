@@ -1,4 +1,12 @@
-D 'kanom': Krippendorff's alpha for nominal variables Use kanom With STATA 19
+D 'kappaetc': Interrater agreement (Percent Agreement, Brennan and Prediger, Cohen/Conger's Kappa, Scott/Fleiss' Kappa, Gwet's AC, Krippendorff's Alpha) Use kappaetc With STATA 19
 D
-F kanom.ado
-F kanom.sthlp
+F kappaetc.ado
+F kappaetc.sthlp
+F kappaetc_choosing.sthlp
+F kappaetc_icc.sthlp
+F kappaetc_loa.sthlp
+F kappaetc_ttest.sthlp
+F kappaetci.ado
+F kappaetci.sthlp
+F kappaetcssi.ado
+F kappaetcssi.sthlp
